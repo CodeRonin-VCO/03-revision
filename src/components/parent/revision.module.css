@@ -1,0 +1,38 @@
+.container_parent {
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_log {
+    padding: 1rem;
+    margin: 1rem auto;
+    border-radius: .8rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.highlight {
+    color: lightseagreen;
+}
+
+.btn {
+    margin: 1rem auto;
+    padding: .8rem 1.6rem;
+    text-transform: capitalize;
+    border: .1rem solid black;
+    border-radius: 3.2rem;
+    background-color: lightgrey;
+
+    &:hover {
+        background-color: lightseagreen;
+    }
+}
+.active {
+    color: #ddd;
+    background-color: #333;
+}

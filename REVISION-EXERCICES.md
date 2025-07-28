@@ -1,9 +1,6 @@
 # 1. Rendus conditionnels
 
-<<<<<<< HEAD
  __Affichage conditionnel de messages :__ Créez un composant qui affiche un message de bienvenue si l'utilisateur est connecté, sinon affichez un message d'invitation à se connecter.
-
-__Affichage d'éléments en fonction d'un état__ : Créez un composant qui affiche une liste de tâches. Si la liste est vide, affichez un message indiquant qu'il n'y a pas de tâches.
 
 __Changement de style conditionnel__ : Créez un bouton qui change de couleur en fonction de sa propriété isActive.
 
