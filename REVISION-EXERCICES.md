@@ -2,7 +2,7 @@
 
  __Affichage conditionnel de messages :__ Créez un composant qui affiche un message de bienvenue si l'utilisateur est connecté, sinon affichez un message d'invitation à se connecter.
 
-__Changement de style conditionnel__ : Créez un bouton qui change de couleur en fonction de sa propriété isActive.
+__Changement de style conditionnel__ : Créez un bouton qui change la couleur du bg en fonction de sa propriété isActive.
 
 # 2. Collections
 
